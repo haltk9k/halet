@@ -1,0 +1,21 @@
+body{
+    background-color: darkgray;
+    color: black;
+}
+.red{
+    color: crimson;
+}
+.yellow{
+    color: yellow;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: lime;
+}
+.truncate{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
